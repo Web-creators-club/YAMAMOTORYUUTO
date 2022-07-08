@@ -1,0 +1,184 @@
+@charset  "utf-8";
+  .background {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./img/fv-bgi_01@2x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+.box img{
+    width: 100%;
+    height: 100%;
+}
+p {
+    margin: 0;
+    padding: 0;
+    color: #FFF;
+    font-size: 32px;
+}
+.box{
+    position: relative;
+  }
+.top-left {
+    position: absolute;
+    top: 25px;
+    left: 25px;
+}
+.A{
+    position: absolute;
+    top: 25px;
+    left: 125px;
+    font-size: 26px;
+}
+.B{
+    position: absolute;
+  top: 25px;
+  right: 400px;
+  font-size: 16px;
+}
+.C{
+    position: absolute;
+    top: 25px;
+    right: 320px;
+    font-size: 16px;
+}
+.D{
+    position: absolute;
+    top: 25px;
+    right: 240px;
+    font-size: 16px;
+}
+.E{
+    position: absolute;
+    top: 25px;
+    right: 160px;
+    font-size: 16px;
+}
+.F{
+    position: absolute;
+    top: 350px;
+    left: 125px;
+    font-size: 70px;
+    color: #FFF;
+}
+.G{
+    position: absolute;
+    top:480px;
+    left: 170px;
+    font-size: 40px;
+    color: #FFF;
+}
+.box2{
+    position: relative;
+  }
+.H{
+    position: absolute;
+    top: 80px;
+    left: 230px;
+    font-size: 60px;
+    color: #000000;
+}
+.I{
+    position: absolute;
+    top: 220px;
+    left: 430px;
+    font-size: 30px;
+    color: #000000;
+}
+.J{
+    position: absolute;
+    top: 270px;
+    left: 580px;
+    font-size: 30px;
+    color: #000000;
+}
+.L{
+    position: absolute;
+    top: 650px;
+    left: 710px;
+    font-size: 90px;
+    color: #F3F3F3;
+}
+.background2 {width: 825px;
+    margin-top: 225px;
+}
+.img-left {margin-left: 750px;
+}
+.box3{
+    position: relative;
+}
+.N{
+    position: absolute;
+    top: 25px;
+    right: 100px;
+    font-size: 60px;
+    color: #FFF;
+}
+.R{
+    position: absolute;
+    top: 1150px;
+    left: 120px;
+    font-size: 90px;
+    color: #474B4E;
+}
+  .box4{
+    position: relative;
+  }
+.S{
+    position: absolute;
+    top: 80px;
+    left: 230px;
+    font-size: 60px;
+    color: #000000;
+}
+.V{
+    position: absolute;
+    top: 650px;
+    left: 710px;
+    font-size: 90px;
+    color: #F3F3F3;
+}
+.box5{
+    position: relative;
+}
+ .background3 {
+    width: 100%;
+    height: 100vh;
+    background-image: url(./img/contact-bgi@2x.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+  }
+  .X{
+    position: absolute;
+    top: 100px;
+    right: 350px;
+    font-size: 60px;
+    color: #FFF;
+  }
+  .Z{
+    position: absolute;
+    top: 300px;
+    left: 590px;
+    font-size: 20px;
+    color: #FFF;
+  }
+  .U{
+    position: absolute;
+    top: 500px;
+    left: 120px;
+    font-size: 90px;
+    color: #474B4E;
+  }
+  .box6{
+    position: relative;
+  }
+  .DC{
+    position: absolute;
+    top: 5px;
+    left: 590px;
+    font-size: 14px;
+    color: #000;
+    margin: 10px;
+  }
